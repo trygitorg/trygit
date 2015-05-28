@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿// Removed unused "using" from code. Sandeep Birla
+using System;
 using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
